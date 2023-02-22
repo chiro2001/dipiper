@@ -8,7 +8,7 @@
     "license": "GPL-3.0",
     "dependencies": {
         "moment": "^2.24.0",
-        "puppeteer": "13.5.0",
+        "puppeteer": "latest",
         "string-format": "^2.0.0"
     },
     "scripts": {
